@@ -14,6 +14,11 @@ nnome, documento, salario e endereço.
 ### Gerente:
 nome, documento, horas trabalhadas, valorHora, endereço e valor da bonificação.
 
+
+![Throwable Hierarchy](./diagrama1.png)
+
+![Throwable Hierarchy](./diagrama2.png)
+
 ## Paradigma de Programação Orientado a Objetos (POO)
 
 A visão de Orientação a Objetos (OO) é aquela de um mundo de objetos que interagem.
