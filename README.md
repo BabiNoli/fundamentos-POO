@@ -58,4 +58,4 @@ Uma instância de uma classe é um novo objeto criado dessa classe, com o operad
 
 Repositório criado para acompanhar mentoria da DIO com Camila da DIO.
 
-Texto do README de autoria de Camila : https://github.com/cami-la/mentoria-GFT-START-4-030322
+Texto do README de autoria de Camila Cavalcante : https://github.com/cami-la/mentoria-GFT-START-4-030322
